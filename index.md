@@ -1,2 +1,2 @@
-[Without Assets](http://www.google.com){: .btn}
-[With Assets](http://www.google.com){: .btn}
+[Without Assets](/without_assets.html){: .btn}
+[With Assets](/with_assets.html){: .btn}
